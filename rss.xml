@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Food And Craft Beer]]></title>
+        <description><![CDATA[Food And Craft Beer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 21:28:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>In the culinary tourism industry, experiences are represented by two separate, yet equally important groups.  The cuisine which is consumed  and the craft beer which refreshes the patrons.  These are their stories.</p>]]></description>
+            <link>undefined45c40edf-021b-436a-9d4a-eb5f292e544b/index.html</link>
+            <guid isPermaLink="false">45c40edf-021b-436a-9d4a-eb5f292e544b</guid>
+            <pubDate>Sat, 13 Feb 2016 21:28:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
