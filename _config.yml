@@ -1,0 +1,28 @@
+name: Food And Craft Beer
+favicon: null
+layout_spectrum: 0.9052510019391775
+typography_spectrum: 0.6858234133105725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.26927831768989563
+  lightness: 0.595757621107623
+  saturation: 0.194754479220137
+  rhythmicContrast: 0.7949426670093089
+purpose: []
