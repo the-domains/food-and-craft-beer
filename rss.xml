@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Food And Craft Beer]]></title>
         <description><![CDATA[Food And Craft Beer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/food-and-craft-beer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 21:28:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 02:57:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/food-and-craft-beer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>In the culinary tourism industry, experiences are represented by two separate, yet equally important groups.  The cuisine which is consumed  and the craft beer which refreshes the patrons.  These are their stories.</p>]]></description>
-            <link>undefined45c40edf-021b-436a-9d4a-eb5f292e544b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85eed45b-f74f-4286-b379-1d7098c671eb.jpg">]]></description>
+            <link>https://thegrid.ai/food-and-craft-beer/45c40edf-021b-436a-9d4a-eb5f292e544b/index.html</link>
             <guid isPermaLink="false">45c40edf-021b-436a-9d4a-eb5f292e544b</guid>
-            <pubDate>Sat, 13 Feb 2016 21:28:57 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 02:56:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
